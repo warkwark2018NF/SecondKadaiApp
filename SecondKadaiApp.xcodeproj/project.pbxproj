@@ -13,6 +13,7 @@
 		3225733D24B9EC5F0023B9F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3225733B24B9EC5F0023B9F2 /* Main.storyboard */; };
 		3225733F24B9EC640023B9F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3225733E24B9EC640023B9F2 /* Assets.xcassets */; };
 		3225734224B9EC640023B9F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3225734024B9EC640023B9F2 /* LaunchScreen.storyboard */; };
+		32AA25E024BAB2C100DF584B /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AA25DF24BAB2C100DF584B /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3225733E24B9EC640023B9F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3225734124B9EC640023B9F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3225734324B9EC640023B9F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32AA25DF24BAB2C100DF584B /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		3225733424B9EC5F0023B9F2 /* SecondKadaiApp */ = {
 			isa = PBXGroup;
 			children = (
+				32AA25DF24BAB2C100DF584B /* ResultViewController.swift */,
 				3225733524B9EC5F0023B9F2 /* AppDelegate.swift */,
 				3225733724B9EC5F0023B9F2 /* SceneDelegate.swift */,
 				3225733924B9EC5F0023B9F2 /* ViewController.swift */,
@@ -141,6 +144,7 @@
 				3225733A24B9EC5F0023B9F2 /* ViewController.swift in Sources */,
 				3225733624B9EC5F0023B9F2 /* AppDelegate.swift in Sources */,
 				3225733824B9EC5F0023B9F2 /* SceneDelegate.swift in Sources */,
+				32AA25E024BAB2C100DF584B /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
